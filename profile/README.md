@@ -3,6 +3,7 @@
 ## Start here
 
 - **[SiteCrew AaSS Kit](https://github.com/AaSS-community/SiteCrew-AaSS-kit)**: a free kit (MIT) that puts your website on Cloudflare Pages, with an AI coding agent that builds it and maintains it. Nothing is published until you say "yes, publish". It put [aass.co](https://aass.co) live on Oct 2, 2026.
+- **[SiteCrew.ai](https://sitecrew.ai)**: where the kit comes from, a website product in development.
 - **[aass.co](https://aass.co)**: what AaSS is, lessons, and stories, with a receipt for every number.
 - **[AaSS.community](https://aass.community)**: the free community. Coming soon.
 - **[The Practical AI Community](https://practicalai.community)**: the paid community, with the tested solutions. Coming soon.
